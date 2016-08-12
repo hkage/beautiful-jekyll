@@ -1,4 +1,4 @@
 ---
 layout: post
-title: GIF screencast mit byzanz-record
+title: GIF screencast with byzanz-record
 ---
